@@ -366,7 +366,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project was developed during an NLP internship at the National Training Institute (NTI). Special thanks to:
 
-- **Dr. Walaa** and the mentoring team for guidance and support
 - **NTI** for providing the internship opportunity and resources
 - **Qwen Team** at Alibaba for the excellent language model
 - **ChromaDB** team for the vector database capabilities
